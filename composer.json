@@ -1,0 +1,9 @@
+{
+  "name": "embanet-compass/moodle-plagiarism_turnitin",
+  "type": "moodle-plagiarism",
+  "description": "Turnitin",
+  "extra": {
+    "installer-name": "turnitin",
+    "moodle": { "package_folder_name" : "turnitin" }
+  }
+}
